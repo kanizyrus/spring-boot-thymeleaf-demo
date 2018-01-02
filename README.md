@@ -4,7 +4,7 @@ This project demonstrates simple methods to combine Spring Boot and Thymeleaf to
 
 Clone this project:
 
-`git clone`
+`git clone https://github.com/kanizyrus/spring-boot-thymeleaf-demo.git`
 
 Run this project:
 
